@@ -13,6 +13,6 @@
         "path": "^0.12.7",
         "sequelize": "^6.28.0",
         "sqlite3": "^5.1.4",
-        "node.extend": "1.1.6"
+        "node.extend": "1.1.8"
     }
 }
